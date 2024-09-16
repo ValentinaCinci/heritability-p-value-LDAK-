@@ -1,0 +1,18 @@
+Component Heritability SD Influence SD
+Her_Base 0.319000 0.144670 0.000219 0.000099
+Her_All 0.319000 0.144670 0.000219 0.000099
+
+Weighted_Sample_Size 2950.00
+Num_Datapoints 312476
+Effective_Size 58820.83
+Weighted_Mean_Chisq 0.9786
+Weighted_GIF 0.9779
+Null_logl -44618.070331
+Alt_logl -44615.402624
+Scaling_Estimate 0.963077
+Scaling_SD 0.008872
+Converged YES
+Num_Neg_Exp_Her 0
+Effective_Neg_Exp_Her 0.00
+Num_Non_Pos_Stat 0
+Effective_Non_Pos_Stat 0.00
